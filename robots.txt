@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-vyvodom-cherez-sbp.github.io
+Sitemap: https://kazino-s-vyvodom-cherez-sbp.github.io/sitemap.xml
